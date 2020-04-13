@@ -52,8 +52,8 @@ function AboutBlurb() {
             <p>
               <strong>Fullstack Developer</strong> @giroxx, specialized in
               developing fast, responsive & clean websites, using React.js
-              powered by Gatsby using by a highly secure and real time backend
-              with Tornado Websockets in Python &{" "}
+              powered by Gatsby and a highly secure and real time backend with
+              Tornado Websockets in Python &{" "}
               <strong>Freelance Developer</strong> building Custom CMS powered
               by Gatsby / Next.js for best SEO & Performance Results and
               Lighthouse Scores of 100%.
