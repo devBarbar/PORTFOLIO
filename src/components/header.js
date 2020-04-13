@@ -8,13 +8,13 @@ const Header = ({ siteTitle }) => (
     <div className="container">
       <div className="inner-header">
         <div className="logo">
-          <Link to="/">devBarbar</Link>
+          <Link to="/">.devBarbar</Link>
         </div>
         <div className="navigation">
           <nav>
             <Link to="#about">About</Link>
-            <Link to="/work">Work</Link>
-            <Link to="/about">Contact</Link>
+            <Link to="#">Work</Link>
+            <Link to="#">Contact</Link>
             <a href="#">Résumé</a>
           </nav>
         </div>

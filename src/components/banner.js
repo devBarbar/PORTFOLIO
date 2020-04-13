@@ -57,7 +57,7 @@ function Banner() {
           }
         }
       }
-      avatar2: file(relativePath: { eq: "fc-stone-logo.jpg" }) {
+      avatar2: file(relativePath: { eq: "Logo-plain.png" }) {
         childImageSharp {
           fluid(maxWidth: 800) {
             ...GatsbyImageSharpFluid
